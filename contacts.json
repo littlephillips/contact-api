@@ -1,0 +1,25 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "firstName": "Pablo",
+      "lastName": "Escobar",
+      "phone": "+254712345678",
+      "email": "pablo@nacos.io"
+    },
+    {
+      "id": 2,
+      "firstName": "Manuela",
+      "lastName": "Escobar",
+      "phone": "+254712345600",
+      "email": "manuela@nacos.io"
+    },
+    {
+      "id": 3,
+      "firstName": "Damilola",
+      "lastName": "Taylor",
+      "phone": "+254712345611",
+      "email": "damilola@taylor.io"
+    }
+  ]
+}
