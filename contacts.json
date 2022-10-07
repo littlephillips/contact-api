@@ -13,13 +13,8 @@
       "lastName": "Escobar",
       "phone": "+254712345600",
       "email": "manuela@nacos.io"
-    },
-    {
-      "id": 3,
-      "firstName": "Damilola",
-      "lastName": "Taylor",
-      "phone": "+254712345611",
-      "email": "damilola@taylor.io"
     }
   ]
 }
+
+
